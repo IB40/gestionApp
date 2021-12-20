@@ -1,0 +1,13 @@
+package com.gestionApp.gestionAutoApprenant;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class GestionAutoApprenantApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(GestionAutoApprenantApplication.class, args);
+	}
+
+}
